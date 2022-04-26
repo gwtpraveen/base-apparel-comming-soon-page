@@ -1,4 +1,4 @@
-# Frontend Mentor - Profile card component solution
+# Frontend Mentor -  Base Apparel coming soon page solution
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -25,6 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - CSS custom properties
 - Flexbox
 - grid
+- javaScript
 
 ### Useful resources
 
